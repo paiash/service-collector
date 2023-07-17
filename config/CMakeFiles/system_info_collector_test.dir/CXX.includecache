@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/qxz1vmm/Desktop/eel2/systemInfoCollector.cpp
+iostream
+-
+fstream
+-
+filesystem
+-
+regex
+-
+chrono
+-
+ctime
+-
+cstdlib
+-
+cstring
+-
+unistd.h
+-
+thread
+-
+
+/home/qxz1vmm/Desktop/eel2/systemInfoCollectorTest.cpp
+gtest/gtest.h
+-
+fstream
+-
+filesystem
+-
+chrono
+-
+thread
+-
+systemInfoCollector.cpp
+/home/qxz1vmm/Desktop/eel2/systemInfoCollector.cpp
+

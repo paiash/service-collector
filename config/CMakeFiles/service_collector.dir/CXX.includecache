@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/qxz1vmm/Desktop/eel2/main.cpp
+serviceCollector.cpp
+/home/qxz1vmm/Desktop/eel2/serviceCollector.cpp
+
+/home/qxz1vmm/Desktop/eel2/serviceCollector.cpp
+iostream
+-
+fstream
+-
+filesystem
+-
+regex
+-
+chrono
+-
+ctime
+-
+cstdlib
+-
+cstring
+-
+unistd.h
+-
+thread
+-
+

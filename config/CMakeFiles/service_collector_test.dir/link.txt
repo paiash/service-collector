@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/service_collector_test.dir/home/qxz1vmm/Desktop/eel2/serviceCollectorTest.cpp.o  -o service_collector_test  /usr/lib/x86_64-linux-gnu/libgtest_main.a /usr/lib/x86_64-linux-gnu/libgtest.a -lpthread 
