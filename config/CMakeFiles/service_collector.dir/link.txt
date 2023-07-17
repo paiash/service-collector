@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/service_collector.dir/home/qxz1vmm/Desktop/eel2/main.cpp.o  -o service_collector  -lpthread 

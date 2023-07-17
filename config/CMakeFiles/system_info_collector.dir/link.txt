@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/system_info_collector.dir/home/qxz1vmm/Desktop/eel2/main.cpp.o  -o system_info_collector  -lpthread 
